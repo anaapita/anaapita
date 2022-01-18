@@ -8,11 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaapita&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anaapita/count.svg" />
-</p>
-
 <p align="left">
  Quer saber mais? Entre em contato comigo ⤵️
 </p>
