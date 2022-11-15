@@ -1,28 +1,15 @@
-<img align="right" alt="Code gif" src="https://media1.giphy.com/media/qIooO8GCM5v4bomMdP/giphy.gif?cid=ecf05e475j68jtqowagc8ot36399mekgq81vaxfdyv87ehkn&rid=giphy.gif&ct=s" width="40%" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=header"/>
 
-## Olá, sou a Ana Pita 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=bd95bd&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Ana+Pita;+Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="">
-  <a href="https://github.com/anaapita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaapita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaapita&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaapita&show_icons=true&count_private=true&hide_border=true&title_color=bd95bd&icon_color=4ee6c5&text_color=dfe6f0&bg_color=0d1117" alt="Ana Pita github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaapita&layout=compact&hide_border=true&title_color=bd95bd&text_color=dfe6f0&bg_color=0d1117" />
 </div>
 
-<p align="left">
- Quer saber mais? Entre em contato comigo ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:acalencar16@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
-
-  <a href="https://www.linkedin.com/in/ana-caroline-alencar-pita-9ab631221/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-
+  <img align="right" alt="Code gif" src="https://media1.giphy.com/media/qIooO8GCM5v4bomMdP/giphy.gif?cid=ecf05e475j68jtqowagc8ot36399mekgq81vaxfdyv87ehkn&rid=giphy.gif&ct=s" width="20%" />
   
-  
- 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=footer"/>
 
 
 
